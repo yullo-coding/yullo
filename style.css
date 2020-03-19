@@ -1,0 +1,33 @@
+body{
+    margin: 0; 
+    padding: 0;    
+}
+
+ul {
+    list-style:none;
+}
+
+.header {
+    width:100%;
+    height: 100px;
+    background-color: red;
+}
+.nav {
+    width:calc(100% / 4);
+    height:25px;
+    background-color: skyblue; 
+    border: solid 1px #fff;
+}
+li{
+    border: solid 1px #fff;
+}
+.section {
+    width:100%;
+    height:300px;
+    background-color: yellow;
+}
+.footer{
+    width:100%;
+    height:40px;
+    background-color: green;
+}
